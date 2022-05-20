@@ -1,5 +1,7 @@
 project: rocket
 target: uri-parse
 
+tests:
+  - file:///corpus/
 cmds:
   - cmd: /uri-parse
