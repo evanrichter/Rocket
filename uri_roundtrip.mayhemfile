@@ -1,0 +1,5 @@
+project: rocket
+target: uri-roundtrip
+
+cmds:
+  - cmd: /uri-roundtrip

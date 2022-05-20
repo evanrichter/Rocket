@@ -1,0 +1,5 @@
+project: rocket
+target: uri-parse
+
+cmds:
+  - cmd: /uri-parse
